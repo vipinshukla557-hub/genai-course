@@ -490,7 +490,7 @@ print("=" * 60)
 print("EXERCISE 6: RetryWithErrorOutputParser")
 print("=" * 60)
 
-from langchain.output_parsers import RetryWithErrorOutputParser
+from langchain_classic.output_parsers import RetryWithErrorOutputParser
 
 # ============================================================
 # A strict model where the LLM might struggle with the format
