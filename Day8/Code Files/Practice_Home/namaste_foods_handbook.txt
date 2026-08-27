@@ -1,0 +1,115 @@
+
+NAMASTE FOODS — EMPLOYEE HANDBOOK
+Last Updated: January 2025
+
+=== CHAPTER 1: COMPANY OVERVIEW ===
+
+Namaste Foods is a premium food delivery platform headquartered in Andheri, Mumbai.
+Founded in 2020, we connect over 50,000 restaurants across 15 Indian cities with
+hungry customers who want restaurant-quality food delivered to their doorstep.
+
+Our mission is simple: deliver happiness, one meal at a time. We believe that great
+food should be accessible to everyone, whether you're ordering a Rs 99 thali from
+a local dhaba or a Rs 2,500 tasting menu from a five-star hotel.
+
+Our core values are:
+1. Customer Obsession — the customer's biryani should arrive hot, always.
+2. Speed Without Shortcuts — fast delivery, but never at the cost of food quality.
+3. Respect for Partners — our restaurant partners and delivery riders are family.
+4. Data-Driven Decisions — we measure everything from delivery time to dal temperature.
+
+=== CHAPTER 2: LEAVE POLICY ===
+
+All full-time employees are entitled to the following leaves per calendar year:
+
+Casual Leave (CL): 12 days per year. Can be taken in half-day units. Cannot be
+carried forward to the next year. Must be applied at least 1 day in advance.
+
+Sick Leave (SL): 10 days per year. Can be taken without prior notice but requires
+a medical certificate if taken for more than 2 consecutive days. Unused sick leave
+can be carried forward up to a maximum of 30 days.
+
+Earned Leave (EL): 15 days per year. Earned at the rate of 1.25 days per month.
+Can be carried forward up to a maximum of 45 days. Can be encashed at the time
+of separation. Must be applied at least 7 days in advance for 3+ consecutive days.
+
+Maternity Leave: 26 weeks as per the Maternity Benefit Act, 2017. Applicable to
+women employees who have worked for at least 80 days in the 12 months before the
+expected delivery date.
+
+Paternity Leave: 5 working days. Must be taken within 30 days of the child's birth.
+
+Public Holidays: 12 gazetted holidays per year as per the Maharashtra state list.
+Additionally, employees may choose 2 restricted holidays from the provided list.
+
+=== CHAPTER 3: WORK FROM HOME POLICY ===
+
+Effective April 2024, Namaste Foods follows a hybrid work model:
+
+Engineering Team: 3 days in office (Tuesday, Wednesday, Thursday), 2 days remote.
+Operations Team: 5 days in office. Remote work not applicable due to on-ground needs.
+Marketing and Sales: 2 days in office (Monday, Wednesday), 3 days remote.
+HR and Finance: 3 days in office (Monday, Tuesday, Thursday), 2 days remote.
+
+All employees must be available on Slack during core hours: 10:00 AM to 6:00 PM IST,
+regardless of whether they are working from office or from home.
+
+Home office setup: The company provides a one-time Rs 15,000 allowance for purchasing
+a monitor, keyboard, mouse, or desk. Receipts must be submitted within 60 days of
+purchase. Internet reimbursement of Rs 1,000 per month is provided for remote days.
+
+=== CHAPTER 4: EXPENSE REIMBURSEMENT ===
+
+Business Travel: All domestic flights must be booked in economy class. Hotels must
+be booked through the company portal. Daily meal allowance during travel is Rs 1,500
+in metro cities (Mumbai, Delhi, Bangalore, Chennai, Hyderabad, Kolkata) and Rs 1,000
+in non-metro cities.
+
+Client Entertainment: Prior approval from your manager is required for expenses above
+Rs 5,000. Receipts must be submitted within 7 days of the expense. Alcohol is not
+reimbursable under any circumstances.
+
+Software and Tools: Any software subscription above Rs 2,000 per month requires IT
+team approval. Free trials are encouraged before purchasing.
+
+=== CHAPTER 5: PERFORMANCE REVIEWS ===
+
+Performance reviews happen twice a year: April (mid-year) and October (annual).
+
+Rating Scale:
+5 — Exceptional: Consistently exceeds all expectations. Top 5% of performers.
+4 — Exceeds Expectations: Regularly delivers above what is expected.
+3 — Meets Expectations: Solid, reliable performance. This is a good rating.
+2 — Needs Improvement: Some goals not met. Improvement plan will be created.
+1 — Unsatisfactory: Significant gaps. Formal PIP (Performance Improvement Plan) initiated.
+
+Promotion eligibility requires a minimum rating of 4 in the most recent annual review
+and at least 18 months in the current role. Skip-level promotions require VP approval.
+
+Salary increments are linked to performance ratings:
+Rating 5: 15-20% increment
+Rating 4: 10-15% increment
+Rating 3: 5-8% increment
+Rating 2: 0% increment
+Rating 1: 0% increment, formal PIP
+
+=== CHAPTER 6: CODE OF CONDUCT ===
+
+All employees must maintain the highest standards of professional behaviour.
+
+Conflict of Interest: Employees must not hold any financial interest in a competing
+food delivery platform (e.g., Swiggy, Zomato). Moonlighting for competitors is
+strictly prohibited and is grounds for immediate termination.
+
+Data Privacy: Customer data including names, addresses, phone numbers, and order
+history is strictly confidential. Sharing customer data outside approved systems is
+a terminable offence. All data handling must comply with the IT Act, 2000 and the
+Digital Personal Data Protection Act, 2023.
+
+Social Media: Employees may share their work experiences on social media but must
+not disclose financial results, unreleased products, or internal strategies. When
+in doubt, consult the PR team before posting.
+
+Gifts and Hospitality: Employees may accept gifts from vendors or partners only
+if the value is below Rs 3,000. Gifts above this amount must be declared to the
+Ethics Committee. Cash gifts are never acceptable.
