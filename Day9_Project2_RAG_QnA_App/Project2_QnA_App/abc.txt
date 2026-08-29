@@ -1,0 +1,12 @@
+doc-qa-app/
+├── src/                    ← THE ENGINE (5 files)
+│   ├── __init__.py         ← tells Python this is a package
+│   ├── config.py           ← all settings, one place
+│   ├── safety.py           ← input validation
+│   ├── document_loader.py  ← load + split PDFs
+│   ├── vector_store.py     ← embeddings + ChromaDB
+│   └── rag_chain.py        ← RAG pipeline + memory
+├── streamlit_app.py        ← THE WEB UI
+├── requirements.txt        ← packages
+├── .env                    ← API keys (NEVER commit)
+└── .gitignore              ← protects secrets

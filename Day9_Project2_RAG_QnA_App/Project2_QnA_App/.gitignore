@@ -1,0 +1,29 @@
+# Secrets — NEVER commit these
+.env
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Vector store — gets rebuilt automatically, no need to commit
+chroma_db/
+
+# Uploaded PDFs (we don't want users' private docs in git)
+uploads/
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
