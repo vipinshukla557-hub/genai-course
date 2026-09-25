@@ -26,11 +26,11 @@
 # Same pattern as Week 1 — load from .env file.
 
 import os
-from dotenv import load_dotenv
+from dotenv import find_dotenv, load_dotenv
 
 # load_dotenv() reads your .env file and puts the values into
 # environment variables. This keeps your API key out of the code.
-load_dotenv()
+load_dotenv(find_dotenv())
 
 # Quick check that the key is set
 if not os.getenv("OPENAI_API_KEY"):

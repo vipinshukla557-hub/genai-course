@@ -42,7 +42,7 @@ PREREQUISITES:
 
 import os
 import time
-from dotenv import load_dotenv
+from dotenv import find_dotenv, load_dotenv
 from openai import (
     OpenAI,
     AuthenticationError,
@@ -52,7 +52,7 @@ from openai import (
     BadRequestError,
 )
 
-load_dotenv()
+load_dotenv(find_dotenv())
 
 
 # ═══════════════════════════════════════════════════════════════════════════

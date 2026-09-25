@@ -37,11 +37,11 @@ WHAT lives here:
 
 import os
 from pathlib import Path
-from dotenv import load_dotenv
+from dotenv import find_dotenv, load_dotenv
 
 # Load environment variables from .env file into os.environ.
 # This must run before we read any os.getenv() calls below.
-load_dotenv()
+load_dotenv(find_dotenv())
 
 
 # =============================================================================

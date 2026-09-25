@@ -1,0 +1,2 @@
+# Required by langchain_community.tools.DuckDuckGoSearchRun
+ddgs>=9.16.0

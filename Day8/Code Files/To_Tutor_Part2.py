@@ -16,9 +16,9 @@
 
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import CharacterTextSplitter
-from dotenv import load_dotenv
+from dotenv import find_dotenv, load_dotenv
 
-load_dotenv()
+load_dotenv(find_dotenv())
 
 docs = TextLoader("company_handbook.txt", encoding="utf-8").load()
 
