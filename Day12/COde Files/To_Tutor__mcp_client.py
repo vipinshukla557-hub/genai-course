@@ -2,6 +2,7 @@
 # # ── IMPORTS ──────────────────────────────────────────────────
 
 import asyncio
+from pathlib import Path
 from fastmcp import Client
 
 # # ── THE MAIN FUNCTION ────────────────────────────────────────
@@ -9,7 +10,10 @@ from fastmcp import Client
 
 async def main():
 
-    client = Client("To_Tutor_mcp_server.py")
+    # Resolve the server relative to this client file, rather than the
+    # terminal's current working directory.
+    server_path = Path(__file__).with_name("To_Tutor_mcp_server.py")
+    client = Client(server_path)
 
     async with client:
 
@@ -71,4 +75,3 @@ async def main():
 # # ── RUN THE CLIENT ───────────────────────────────────────────
 
 asyncio.run(main())
-

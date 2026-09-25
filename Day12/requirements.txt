@@ -1,1 +1,2 @@
 fastmcp
+langgraph-supervisor>=0.0.31
